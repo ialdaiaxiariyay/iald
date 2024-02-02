@@ -1,0 +1,31 @@
+{
+  "_fv": 28,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "ialdcomeds_sword",
+    "customModelName": "Normal",
+    "name": "Deeppurpleglimmersword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Ialdca"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 10,
+    "efficiency": 15.0,
+    "attackSpeed": 100.0,
+    "enchantability": 40,
+    "damageVsEntity": 1000.0,
+    "usageCount": 15000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Deeppurpleglimmer"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

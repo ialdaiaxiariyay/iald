@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "iald:deeppurpleglimmer_block"
+    },
+    "2": {
+      "item": "iald:deeppurpleglimmer_block"
+    },
+    "3": {
+      "item": "iald:deeppurpleglimmer_block"
+    },
+    "4": {
+      "item": "iald:deeppurple_core"
+    },
+    "5": {
+      "item": "iald:deeppurpleglimmer_block"
+    },
+    "6": {
+      "item": "iald:deeppurple_core"
+    },
+    "7": {
+      "item": "iald:deeppurpleglimmer_block"
+    },
+    "8": {
+      "item": "iald:deeppurple_core"
+    }
+  },
+  "result": {
+    "item": "iald:deeppurpleglimmer_armor_chestplate",
+    "count": 1
+  }
+}

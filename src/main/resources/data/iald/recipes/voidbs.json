@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:oak_planks"
+    },
+    "1": {
+      "item": "iald:voidb"
+    },
+    "2": {
+      "item": "minecraft:birch_planks"
+    },
+    "3": {
+      "item": "iald:voidb"
+    },
+    "4": {
+      "item": "iald:deeppurpleglimmer"
+    },
+    "5": {
+      "item": "iald:voidb"
+    },
+    "6": {
+      "item": "minecraft:birch_planks"
+    },
+    "7": {
+      "item": "minecraft:diamond"
+    },
+    "8": {
+      "item": "minecraft:oak_planks"
+    }
+  },
+  "result": {
+    "item": "iald:voida",
+    "count": 1
+  }
+}

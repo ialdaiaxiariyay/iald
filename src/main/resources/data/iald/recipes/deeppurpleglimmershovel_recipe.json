@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "iald:deeppurple_core"
+    },
+    "1": {
+      "item": "iald:deeppurpleglimmer_stick"
+    },
+    "2": {
+      "item": "iald:deeppurpleglimmer_stick"
+    }
+  },
+  "result": {
+    "item": "iald:deeppurpleglimmer_shovel",
+    "count": 1
+  }
+}

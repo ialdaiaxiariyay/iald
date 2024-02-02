@@ -1,0 +1,62 @@
+{
+  "_fv": 28,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "ialdcomeds_head",
+    "enableBody": true,
+    "textureBody": "ialdcomeds_body",
+    "enableLeggings": true,
+    "textureLeggings": "ialdcomeds_leggings",
+    "enableBoots": true,
+    "textureBoots": "ialdcomeds_boots",
+    "creativeTab": {
+      "value": "CUSTOM:Ialdca"
+    },
+    "armorTextureFile": "ialdcomeds",
+    "helmetName": "Deeppurpleglimmerarmor 头盔",
+    "bodyName": "Deeppurpleglimmerarmor 胸甲",
+    "leggingsName": "Deeppurpleglimmerarmor 护腿",
+    "bootsName": "Deeppurpleglimmerarmor 靴子",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": true,
+    "bodyImmuneToFire": true,
+    "leggingsImmuneToFire": true,
+    "bootsImmuneToFire": true,
+    "maxDamage": 80,
+    "damageValueHelmet": 50,
+    "damageValueBody": 50,
+    "damageValueLeggings": 50,
+    "damageValueBoots": 99,
+    "enchantability": 9,
+    "toughness": 8.0,
+    "knockbackResistance": 1.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Deeppurpleglimmer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "iald:blocks/ialddumpack_tpcak",
+    "up": "iald:blocks/ialddumpack_tpcak",
+    "north": "iald:blocks/ialddumpack_tpcak",
+    "east": "iald:blocks/ialddumpack_tpcak",
+    "south": "iald:blocks/ialddumpack_tpcak",
+    "west": "iald:blocks/ialddumpack_tpcak",
+    "particle": "iald:blocks/ialddumpack_tpcak"
+  }
+}

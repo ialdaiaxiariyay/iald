@@ -1,0 +1,32 @@
+{
+  "_fv": 28,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "kill",
+    "customModelName": "Normal",
+    "name": "Kill",
+    "specialInfo": [
+      "§5§ktghrtsyerbyaerynAEDRyteabs"
+    ],
+    "creativeTab": {
+      "value": "No creative tab entry"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 10,
+    "efficiency": 10.0,
+    "attackSpeed": 10.0,
+    "enchantability": 10,
+    "damageVsEntity": 10.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "Killswp"
+    }
+  }
+}

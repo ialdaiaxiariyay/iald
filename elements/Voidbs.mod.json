@@ -1,0 +1,46 @@
+{
+  "_fv": 28,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.PLANKS#0"
+      },
+      {
+        "value": "CUSTOM:Voidb"
+      },
+      {
+        "value": "Blocks.PLANKS#2"
+      },
+      {
+        "value": "CUSTOM:Voidb"
+      },
+      {
+        "value": "CUSTOM:Deeppurpleglimmer"
+      },
+      {
+        "value": "CUSTOM:Voidb"
+      },
+      {
+        "value": "Blocks.PLANKS#2"
+      },
+      {
+        "value": "Items.DIAMOND"
+      },
+      {
+        "value": "Blocks.PLANKS#0"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Voida"
+    },
+    "name": "voidbs",
+    "namespace": "mod"
+  }
+}

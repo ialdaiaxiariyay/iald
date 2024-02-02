@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "iald:block/voida_portal_ew"
+    },
+    "axis=x": {
+      "model": "iald:block/voida_portal_ns"
+    }
+  }
+}

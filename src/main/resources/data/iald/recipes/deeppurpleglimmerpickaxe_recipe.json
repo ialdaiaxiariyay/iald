@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "iald:deeppurple_core"
+    },
+    "1": {
+      "item": "iald:deeppurple_core"
+    },
+    "2": {
+      "item": "iald:deeppurple_core"
+    },
+    "4": {
+      "item": "iald:deeppurpleglimmer_stick"
+    },
+    "7": {
+      "item": "iald:deeppurpleglimmer_stick"
+    }
+  },
+  "result": {
+    "item": "iald:deeppurpleglimmer_pickaxe",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "iald:blocks/ialdcomeds_ore_block",
+    "up": "iald:blocks/ialdcomeds_ore_block",
+    "north": "iald:blocks/ialdcomeds_ore_block",
+    "east": "iald:blocks/ialdcomeds_ore_block",
+    "south": "iald:blocks/ialdcomeds_ore_block",
+    "west": "iald:blocks/ialdcomeds_ore_block",
+    "particle": "iald:blocks/ialdcomeds_ore_block"
+  }
+}

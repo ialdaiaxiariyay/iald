@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "iald:deeppurpleglimmer_block"
+    }
+  ],
+  "result": {
+    "item": "iald:deeppurpleglimmer",
+    "count": 9
+  }
+}

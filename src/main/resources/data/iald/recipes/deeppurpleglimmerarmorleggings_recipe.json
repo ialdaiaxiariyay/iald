@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "iald:deeppurpleglimmer_block"
+    },
+    "1": {
+      "item": "iald:deeppurple_core"
+    },
+    "2": {
+      "item": "iald:deeppurpleglimmer_block"
+    },
+    "3": {
+      "item": "iald:deeppurple_core"
+    },
+    "5": {
+      "item": "iald:deeppurple_core"
+    },
+    "6": {
+      "item": "iald:deeppurpleglimmer_block"
+    },
+    "8": {
+      "item": "iald:deeppurpleglimmer_block"
+    }
+  },
+  "result": {
+    "item": "iald:deeppurpleglimmer_armor_leggings",
+    "count": 1
+  }
+}

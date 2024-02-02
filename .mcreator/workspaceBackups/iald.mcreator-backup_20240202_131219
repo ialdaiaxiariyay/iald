@@ -1,0 +1,379 @@
+{
+  "mod_elements": [
+    {
+      "name": "Voida",
+      "type": "dimension",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "voida",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "Ialdca",
+      "type": "tab",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ialdca"
+    },
+    {
+      "name": "Voidc",
+      "type": "biome",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "voidc"
+    },
+    {
+      "name": "Voidd",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "voidd"
+    },
+    {
+      "name": "Voidds",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "voidds"
+    },
+    {
+      "name": "Voidbs",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "voidbs"
+    },
+    {
+      "name": "Deeppurpleglimmer",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeppurpleglimmer"
+    },
+    {
+      "name": "Voidb",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "voidb"
+    },
+    {
+      "name": "Deeppurpleglimmerore",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeppurpleglimmer_ore"
+    },
+    {
+      "name": "Deeppurpleglimmerstick",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeppurpleglimmer_stick"
+    },
+    {
+      "name": "Deeppurplecore",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeppurple_core"
+    },
+    {
+      "name": "Deeppurpleglimmerarmor",
+      "type": "armor",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeppurpleglimmer_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Deeppurpleglimmersword",
+      "type": "tool",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeppurpleglimmer_sword"
+    },
+    {
+      "name": "Deeppurpleglimmeraxe",
+      "type": "tool",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeppurpleglimmer_axe"
+    },
+    {
+      "name": "Deeppurpleglimmerpickaxe",
+      "type": "tool",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeppurpleglimmer_pickaxe"
+    },
+    {
+      "name": "Deeppurpleglimmerhoe",
+      "type": "tool",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeppurpleglimmer_hoe"
+    },
+    {
+      "name": "Deeppurpleglimmershovel",
+      "type": "tool",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeppurpleglimmer_shovel"
+    },
+    {
+      "name": "Spicystripsrevamped",
+      "type": "item",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spicystripsrevamped"
+    },
+    {
+      "name": "Deeppurpleglimmerblock",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeppurpleglimmer_block"
+    },
+    {
+      "name": "DeeppurplecoreRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeppurplecore_recipe"
+    },
+    {
+      "name": "DeeppurpleglimmerblockRecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeppurpleglimmerblock_recipe"
+    },
+    {
+      "name": "DeeppurpleglimmerswordRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeppurpleglimmersword_recipe"
+    },
+    {
+      "name": "DeeppurpleglimmeraxeRecipe",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeppurpleglimmeraxe_recipe"
+    },
+    {
+      "name": "DeeppurpleglimmerpickaxeRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeppurpleglimmerpickaxe_recipe"
+    },
+    {
+      "name": "DeeppurpleglimmerhoeRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeppurpleglimmerhoe_recipe"
+    },
+    {
+      "name": "DeeppurpleglimmershovelRecipe",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeppurpleglimmershovel_recipe"
+    },
+    {
+      "name": "VoidbRecipe",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "voidb_recipe"
+    },
+    {
+      "name": "DeeppurpleglimmerRecipe",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeppurpleglimmer_recipe"
+    },
+    {
+      "name": "DeeppurpleglimmerstickRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeppurpleglimmerstick_recipe"
+    },
+    {
+      "name": "SpicystripsrevampedRecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spicystripsrevamped_recipe"
+    },
+    {
+      "name": "DeeppurpleglimmerarmorhelmetRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeppurpleglimmerarmorhelmet_recipe"
+    },
+    {
+      "name": "DeeppurpleglimmerarmorchestplateRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeppurpleglimmerarmorchestplate_recipe"
+    },
+    {
+      "name": "DeeppurpleglimmerarmorleggingsRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeppurpleglimmerarmorleggings_recipe"
+    },
+    {
+      "name": "DeeppurpleglimmerarmorbootsRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeppurpleglimmerarmorboots_recipe"
+    },
+    {
+      "name": "DeeppurpleglimmerRecipe2",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deeppurpleglimmer_recipe_2"
+    },
+    {
+      "name": "Killswp",
+      "type": "procedure",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "killswp",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.iald.deeppurpleglimmer_sword": "Deeppurpleglimmersword",
+      "block.iald.deeppurple_core": "Deeppurplecore",
+      "itemGroup.tabialdca": "Ialdca",
+      "item.iald.deeppurpleglimmer": "Deeppurpleglimmer",
+      "item.iald.deeppurpleglimmer_hoe": "Deeppurpleglimmerhoe",
+      "item.iald.deeppurpleglimmer_armor_chestplate": "Deeppurpleglimmerarmor 胸甲",
+      "block.iald.deeppurpleglimmer_ore": "Deeppurpleglimmerore",
+      "block.iald.voidd": "Voidd",
+      "item.iald.voida": "void",
+      "item.iald.voidb": "Voidb",
+      "item.iald.deeppurpleglimmer_stick": "Deeppurpleglimmerstick",
+      "item.iald.deeppurpleglimmer_armor_leggings": "Deeppurpleglimmerarmor 护腿",
+      "item.iald.deeppurpleglimmer_armor_boots": "Deeppurpleglimmerarmor 靴子",
+      "item.iald.spicystripsrevamped": "Spicystripsrevamped",
+      "biome.iald.voidc": "Voidc",
+      "item.iald.deeppurpleglimmer_axe": "Deeppurpleglimmeraxe",
+      "item.iald.deeppurpleglimmer_pickaxe": "Deeppurpleglimmerpickaxe",
+      "item.iald.deeppurpleglimmer_armor_helmet": "Deeppurpleglimmerarmor 头盔",
+      "block.iald.deeppurpleglimmer_block": "Deeppurpleglimmerblock",
+      "item.iald.deeppurpleglimmer_shovel": "Deeppurpleglimmershovel"
+    },
+    "zh_cn": {
+      "item.iald.deeppurpleglimmer_sword": "Deeppurpleglimmersword",
+      "block.iald.deeppurple_core": "Deeppurplecore",
+      "itemGroup.tabialdca": "Ialdca",
+      "item.iald.deeppurpleglimmer": "Deeppurpleglimmer",
+      "item.iald.deeppurpleglimmer_hoe": "Deeppurpleglimmerhoe",
+      "item.iald.deeppurpleglimmer_armor_chestplate": "Deeppurpleglimmerarmor 胸甲",
+      "block.iald.deeppurpleglimmer_ore": "Deeppurpleglimmerore",
+      "block.iald.voidd": "Voidd",
+      "item.iald.voida": "void",
+      "item.iald.voidb": "Voidb",
+      "item.iald.deeppurpleglimmer_stick": "Deeppurpleglimmerstick",
+      "item.iald.deeppurpleglimmer_armor_leggings": "Deeppurpleglimmerarmor 护腿",
+      "item.iald.deeppurpleglimmer_armor_boots": "Deeppurpleglimmerarmor 靴子",
+      "item.iald.spicystripsrevamped": "Spicystripsrevamped",
+      "biome.iald.voidc": "Voidc",
+      "item.iald.deeppurpleglimmer_axe": "Deeppurpleglimmeraxe",
+      "item.iald.deeppurpleglimmer_pickaxe": "Deeppurpleglimmerpickaxe",
+      "item.iald.deeppurpleglimmer_armor_helmet": "Deeppurpleglimmerarmor 头盔",
+      "block.iald.deeppurpleglimmer_block": "Deeppurpleglimmerblock",
+      "item.iald.deeppurpleglimmer_shovel": "Deeppurpleglimmershovel"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "iald",
+    "modName": "iald",
+    "version": "1.0.0",
+    "author": "ialdaiaxiariyay, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.ialdaiaxiariyay.iald",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200120510
+}

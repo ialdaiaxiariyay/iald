@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:porkchop"
+    },
+    "1": {
+      "item": "minecraft:cooked_mutton"
+    },
+    "2": {
+      "item": "minecraft:mutton"
+    },
+    "3": {
+      "item": "minecraft:cooked_porkchop"
+    },
+    "4": {
+      "item": "iald:deeppurpleglimmer"
+    },
+    "5": {
+      "item": "minecraft:cooked_chicken"
+    },
+    "6": {
+      "item": "minecraft:beef"
+    },
+    "7": {
+      "item": "minecraft:cooked_beef"
+    },
+    "8": {
+      "item": "minecraft:chicken"
+    }
+  },
+  "result": {
+    "item": "iald:spicystripsrevamped",
+    "count": 8
+  }
+}

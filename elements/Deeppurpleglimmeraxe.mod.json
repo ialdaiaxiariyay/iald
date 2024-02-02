@@ -1,0 +1,31 @@
+{
+  "_fv": 28,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "ialdcomeds_axe",
+    "customModelName": "Normal",
+    "name": "Deeppurpleglimmeraxe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Ialdca"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 10,
+    "efficiency": 20.0,
+    "attackSpeed": 50.0,
+    "enchantability": 40,
+    "damageVsEntity": 750.0,
+    "usageCount": 13000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Deeppurpleglimmer"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

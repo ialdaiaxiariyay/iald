@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "iald:deeppurple_core"
+    },
+    "2": {
+      "item": "iald:deeppurple_core"
+    },
+    "3": {
+      "item": "iald:deeppurpleglimmer_block"
+    },
+    "5": {
+      "item": "iald:deeppurpleglimmer_block"
+    }
+  },
+  "result": {
+    "item": "iald:deeppurpleglimmer_armor_boots",
+    "count": 1
+  }
+}

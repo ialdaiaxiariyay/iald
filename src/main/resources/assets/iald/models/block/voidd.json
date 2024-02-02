@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "iald:blocks/voidd",
+    "up": "iald:blocks/voidd",
+    "north": "iald:blocks/voidd",
+    "east": "iald:blocks/voidd",
+    "south": "iald:blocks/voidd",
+    "west": "iald:blocks/voidd",
+    "particle": "iald:blocks/voidd"
+  }
+}
